@@ -1,0 +1,201 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+/*---------- Hero area -----------------*/
+header h1{
+    font-size: 56px;
+    text-align: end;
+    color: white;
+}
+.hero-banner{
+    background-image: url(../images/banner/banner3.png);
+    height: 108vh;
+    display: flex;
+    margin-bottom: 60px;
+
+}
+.right-side{
+    width: 35%;
+    margin-left: auto;
+    margin-right: 102px;
+    font-weight: 682px;
+    font-weight: 900;
+    position: relative;
+    top: 200px;
+    
+}
+.right-side p{
+    font-size: 20px;
+    color: white;
+    text-align: end;
+}
+.hero-button{
+    position: relative;
+    left: 126px;
+}
+
+header a{
+    color: blue;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    margin-left: 257px;
+    }
+
+
+/* ---------description part ------------------*/
+
+.half-width{
+    display: flex;
+}
+.half-width h1{
+    font-size: 40px;
+}
+.half-width p{
+    font-size: 12px;
+}
+.half-width img{
+    width: 100%;
+    padding-left: 100px;
+}
+.checkmark{
+    padding: 0;
+    margin: 0;
+}
+.checkmark li{
+   list-style: none;
+   font-size: 16px !important;
+}
+.half-width ul li{
+    font-size: 14px;
+}
+.text-box{
+    max-width: 26%;
+    max-width: 50;
+    padding: 197px 250px 0px 178px;
+}
+.text-box p{
+    font-size: 16px;
+}
+
+/*project planing section */
+.plan{
+    text-align: center;
+    font-size: 39px;
+    margin: 75px 0px 0px 0px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 32px 100px 61px 100px;
+    justify-content: space-around;
+}
+#web img{
+    
+width: 90px;
+    
+margin-left: 59px;
+    
+/* margin-right: auto; */
+}
+#js img{
+    
+width: 90px;
+    
+margin-left: 13px;
+}
+#smoke img{
+    
+width: 90px;
+    
+margin-left: 37px;
+}
+#ecom img{
+    width: 90px;
+    margin-left: 10px;
+}
+.colum_1_4 h1{
+    text-align: center;
+}
+.colum_1_4 p{
+    text-align: center;
+}
+.contact h1{
+    font-size: 40px;
+    color: white;
+    padding-top: 32px;
+    padding-left: 80px;
+}
+/* contact section */
+.contact{
+    background: url(../images/gradient1.png) right bottom no-repeat, url(../images/watch.png) left top repeat;
+    height: 44vh;
+    background-repeat: no-repeat;
+    padding-left: 78px;
+    background-position: center;
+    padding-top: 30px;
+}
+
+.recent-work{
+    display: flex;
+    margin-left: 40px;
+}
+.recent-work img{
+    width: 90%;
+}
+.contact a{
+    color: rgb(75, 75, 238);
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    position: relative;
+    left: 77px;
+}
+.black{
+    color: white;
+    background-color: #413f3f;
+    margin-top: 75px;
+}
+.info-box{
+    width: 50%;
+    /* padding: 20px 50px; */
+}
+
+.info-box h1{
+    font-size: 40px;
+}
+
+.icon{/* padding: 0px; */padding: 0px !important;}
+
+#email-box{
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+.sub-box{
+    padding: 0px 0px 0px 107px;
+}
+.sub-box a{
+        color: white;
+        text-decoration: none;
+        border: 1px solid blue;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 7px 10px;
+        display: inline-block;
+}
+.footer-flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 49px 0px 10px 100px;
+}
+.padding-5px{
+    padding: 0px 5px;
+}
+
